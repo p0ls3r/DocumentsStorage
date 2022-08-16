@@ -1,0 +1,15 @@
+C:\Users\miste\source\repos\DocumentsStorage\DocumentsStorageWPFClient\bin\Release\DocumentsStorageWPFClient.exe.config
+C:\Users\miste\source\repos\DocumentsStorage\DocumentsStorageWPFClient\bin\Release\DocumentsStorageWPFClient.exe
+C:\Users\miste\source\repos\DocumentsStorage\DocumentsStorageWPFClient\bin\Release\DocumentsStorageWPFClient.pdb
+C:\Users\miste\source\repos\DocumentsStorage\DocumentsStorageWPFClient\obj\Release\DocumentsStorageWPFClient.csproj.AssemblyReference.cache
+C:\Users\miste\source\repos\DocumentsStorage\DocumentsStorageWPFClient\obj\Release\MainWindow.g.cs
+C:\Users\miste\source\repos\DocumentsStorage\DocumentsStorageWPFClient\obj\Release\App.g.cs
+C:\Users\miste\source\repos\DocumentsStorage\DocumentsStorageWPFClient\obj\Release\DocumentsStorageWPFClient_MarkupCompile.cache
+C:\Users\miste\source\repos\DocumentsStorage\DocumentsStorageWPFClient\obj\Release\DocumentsStorageWPFClient_MarkupCompile.lref
+C:\Users\miste\source\repos\DocumentsStorage\DocumentsStorageWPFClient\obj\Release\MainWindow.baml
+C:\Users\miste\source\repos\DocumentsStorage\DocumentsStorageWPFClient\obj\Release\DocumentsStorageWPFClient.g.resources
+C:\Users\miste\source\repos\DocumentsStorage\DocumentsStorageWPFClient\obj\Release\DocumentsStorageWPFClient.Properties.Resources.resources
+C:\Users\miste\source\repos\DocumentsStorage\DocumentsStorageWPFClient\obj\Release\DocumentsStorageWPFClient.csproj.GenerateResource.cache
+C:\Users\miste\source\repos\DocumentsStorage\DocumentsStorageWPFClient\obj\Release\DocumentsStorageWPFClient.csproj.CoreCompileInputs.cache
+C:\Users\miste\source\repos\DocumentsStorage\DocumentsStorageWPFClient\obj\Release\DocumentsStorageWPFClient.exe
+C:\Users\miste\source\repos\DocumentsStorage\DocumentsStorageWPFClient\obj\Release\DocumentsStorageWPFClient.pdb
